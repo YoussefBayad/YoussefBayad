@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... My Portfolio
-- 🌱 I’m currently learning ...  Jest and Redux Toolkit
+- 🌱 I’m currently learning ...  Next js and Typescript
 - 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ... Finding my first job
 - 💬 Ask me about ...anything
