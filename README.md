@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... My Portfolio
+- 🔭 I’m currently working on MERN project
 - 🌱 I’m currently learning ...  Express and mongodb
 - 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ... Finding my first job
