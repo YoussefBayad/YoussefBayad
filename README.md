@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [twitter](https://twitter.com/bayad_jo)
 - 🌐 my Portfolio : [YoussefBayad](https://youssefbayad.vercel.app)
 - 😄 Pronouns: ... Hi/Him 
-- ⚡ Fun fact: ... I'm half finished
--->
