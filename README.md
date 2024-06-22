@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-and Sorry my Best Clean work is private 
+And sorry my Best Clean work is private only work from 4 years ago is public and yes that was 4 years ago.
 
 Here are some ideas to get you started:
 
